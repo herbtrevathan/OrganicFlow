@@ -41,4 +41,4 @@ The TypeScript web app consumes a local FastAPI service. A versioned workflow sc
 
 The `/api/codex` endpoint detects `codex` from `PATH` without assuming a location and reports the supported safety modes. No API key is required for detection or demo mode.
 
-Apache-2.0 licensed. Contributions are welcome through the guidance in [CONTRIBUTING.md](CONTRIBUTING.md); report vulnerabilities according to [SECURITY.md](SECURITY.md).
+Licensed under [Apache-2.0](LICENSE). You may use, modify, and distribute OrganicFlow under its terms. Contributions are welcome through [CONTRIBUTING.md](CONTRIBUTING.md); report vulnerabilities according to [SECURITY.md](SECURITY.md).
